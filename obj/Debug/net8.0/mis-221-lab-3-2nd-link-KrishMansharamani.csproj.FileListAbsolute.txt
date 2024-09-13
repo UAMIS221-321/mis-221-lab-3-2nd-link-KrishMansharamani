@@ -1,0 +1,15 @@
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.AssemblyInfoInputs.cache
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.AssemblyInfo.cs
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.csproj.CoreCompileInputs.cache
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.sourcelink.json
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\bin\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.exe
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\bin\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.deps.json
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\bin\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.runtimeconfig.json
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\bin\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.dll
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\bin\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.pdb
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.dll
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\obj\Debug\net8.0\refint\mis-221-lab-3-2nd-link-KrishMansharamani.dll
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.pdb
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\obj\Debug\net8.0\mis-221-lab-3-2nd-link-KrishMansharamani.genruntimeconfig.cache
+C:\Users\Krish\OneDrive\mis221\labs\mis-221-lab-3-2nd-link-KrishMansharamani\obj\Debug\net8.0\ref\mis-221-lab-3-2nd-link-KrishMansharamani.dll
